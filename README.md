@@ -95,8 +95,3 @@ for box in detections.boxes:
 
 ---
 
-## Tech Stack
-
-- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
-- [Microsoft TrOCR](https://huggingface.co/microsoft/trocr-base-printed)
-- [Gradio](https://gradio.app)
